@@ -30,8 +30,6 @@
 
 [3쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html-book-3)
 
-[1쇄/2쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html-book-1)
-
 
 ※ 2016년 12월에 출간된 <Do it! HTML5+CSS3 웹 표준의 정석(구판)> 10쇄의 실습 파일은 http://cafe.naver.com/doithtml5/448
 에서 다운로드할 수 있습니다.
